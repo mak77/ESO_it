@@ -5378,7 +5378,7 @@
 [SI_SKILLTYPE5] = "Gilde"
 [SI_SKILLTYPE6] = "Guerra delle Alleanze"
 [SI_SKILLTYPE7] = "Razza"
-[SI_SKILLTYPE8] = "Fabbrica"
+[SI_SKILLTYPE8] = "Mestiere"
 [SI_SKILLTYPE9] = "Campione"
 [SI_SKYSHARD_GAINED] = "Frammenti Celesti Assorbiti"
 [SI_SKYSHARD_GAINED_POINTS] = "Frammenti Raccolti <<1>>/<<2>>"
