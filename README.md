@@ -3,7 +3,7 @@
 Basati originariamente sui file di traduzione della comunità di ESO Italia (http://www.esoitalia.it/).
 Con aggiunta di proof-reading, QA e nuove stringhe.
 
-Progresso attuale: 26% delle stringhe tradotto.
+Progresso attuale: 27% delle stringhe tradotto.
 
 # INSTALLAZIONE
 * Copiare it_client_str ed it_pregame.str in Documents\Elder Scrolls Online\liveeu\AddOns\esoUI\lang\.
