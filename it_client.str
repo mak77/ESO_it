@@ -5048,7 +5048,7 @@
 [SI_QUEST_TRACKER_MENU_SHOW_ARROW] = "Segna sulla Mappa"
 [SI_QUEST_TRACKER_MENU_SHOW_IN_JOURNAL] = "Mostra Dettagli"
 [SI_QUEST_TRACKER_MENU_SHOW_ON_MAP] = "Mostra sulla Mappa"
-[SI_QUEST_TRACKER_UBER_TIP] = "Click-Sinistro per togliere le freccie guida. Click-Destro per mostrare il menu opzioni."
+[SI_QUEST_TRACKER_UBER_TIP] = "Tasto Sinistro del Mouse per togliere le frecce guida. Tasto Destro per mostrare il menu opzioni."
 [SI_QUEST_TYPE_COMPLETE] = "Completa"
 [SI_QUEST_TYPE_FORMAT] = "(<<1>>)"
 [SI_QUESTREPEATABLETYPE1] = "Ripetibile"
