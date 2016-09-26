@@ -2834,7 +2834,7 @@
 [SI_UNIT_NAME] = "<<1>>"
 [SI_UNKNOWN_ALLIANCE] = "Alleanza sconosciuta"
 [SI_UNKNOWN_CLASS] = "Classe sconosciuta"
-[SI_UNKNOWN_ERROR] = "È avvenuto un errore. Per favore aspetta un minuto e ritorna a provare."
+[SI_UNKNOWN_ERROR] = "È avvenuto un errore. Per favore aspetta alcuni minuti e riprova a connetterti."
 [SI_UNKNOWN_LOCATION] = "Posizione sconosciuta"
 [SI_UNKNOWN_RANK] = "Grado sconosciuto"
 [SI_UNTRUSTED_MACHINE_BUTTON_TOOLTIP] = "Dispositivo non affidabile.\n\nQuesto è un computer pubblico o non sicuro. Selezionare questo campo impedirà al dispositivo di ricordare il nome utente."
